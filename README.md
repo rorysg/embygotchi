@@ -1,0 +1,2 @@
+# embygotchi
+clone of 
